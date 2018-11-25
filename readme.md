@@ -1,21 +1,30 @@
-# Lumen PHP Framework
+# ASMIN - Restful API
+> Asmin A.K.A Aspire mini is a mini aspire-cap.
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+## Documentation
+[Postman Documentation API Click here . . .](https://documenter.getpostman.com/view/5287012/RzfZQtVW#a2dc4f28-87f7-4b66-8598-b3c1bda10a1c "Postman Documentation API")
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+[![Doc](https://i.ibb.co/SdX2mQf/Screen-Shot-2018-11-25-at-7-08-20-PM.png "Doc")](https://i.ibb.co/SdX2mQf/Screen-Shot-2018-11-25-at-7-08-20-PM.png "Doc")
 
-## Official Documentation
+[![SS](https://i.ibb.co/L92TD3S/Screen-Shot-2018-11-25-at-7-05-11-PM.png "SS")](https://i.ibb.co/L92TD3S/Screen-Shot-2018-11-25-at-7-05-11-PM.png "SS")
 
-Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
+## Requirements and dependencies
 
-## Security Vulnerabilities
+- PHP >= 5.6^
+- Lumen 5.4
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+## How it works!
+
+```
+$ git clone https://github.com/harunnryd/asmin.git
+$ composer install
+```
+
+### ERD
+
+[![ERD](https://i.ibb.co/xzySwDD/mini-aspire.png "ERD")](https://i.ibb.co/xzySwDD/mini-aspire.png "ERD")
 
 ## License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+> Asmin is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
